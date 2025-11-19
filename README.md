@@ -22,4 +22,5 @@ This application allows users to:
 Enter choice: 1
 
 Enter your note: Buy groceries
+
 Note added successfully!
